@@ -1,0 +1,597 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ED2C0CF9-D93E-4BDE-9921-1029FE5EBC6C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PuntoDeVenta</RootNamespace>
+    <AssemblyName>PuntoDeVenta</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\PV\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://www.cceo.com.mx/PV/</UpdateUrl>
+    <ProductName>Punto de venta</ProductName>
+    <PublisherName>CCEO</PublisherName>
+    <SuiteName>CCEO</SuiteName>
+    <ApplicationRevision>60</ApplicationRevision>
+    <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>23B172FEFA3738B7EA45269FC22C0FBC92ACDEFB</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>PuntoDeVenta_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>LogoCceo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ExcelLibrary">
+      <HintPath>.\ExcelLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>.\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>.\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>.\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="LibPrintTicket">
+      <HintPath>.\LibPrintTicket.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>.\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="OrnelasInput">
+      <HintPath>.\OrnelasInput.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Crypting.cs" />
+    <Compile Include="DAO\DAOAbonos.cs" />
+    <Compile Include="DAO\DAOClave_scaner.cs" />
+    <Compile Include="DAO\DAOCorreo.cs" />
+    <Compile Include="DAO\DAODetalles_credito_cliente.cs" />
+    <Compile Include="DAO\DAODetalle_compra.cs" />
+    <Compile Include="DAO\DAOImpresion.cs" />
+    <Compile Include="DAO\DAOPaquetes.cs" />
+    <Compile Include="DAO\Mensajes.cs" />
+    <Compile Include="DAO\Validaciones.cs" />
+    <Compile Include="DB\DB_localDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_localDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\Abonos.cs" />
+    <Compile Include="DTO\Correo.cs" />
+    <Compile Include="DTO\CorteCompras.cs" />
+    <Compile Include="DTO\Detalles_credito_cliente.cs" />
+    <Compile Include="DTO\Detalle_compra.cs" />
+    <Compile Include="DTO\dto_clave_scaner.cs" />
+    <Compile Include="DTO\PantallaCompras.cs" />
+    <Compile Include="DTO\Paquetes.cs" />
+    <Compile Include="Form\autorizacion_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\autorizacion_form.Designer.cs">
+      <DependentUpon>autorizacion_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Cambiar_precio_venta_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Cambiar_precio_venta_form.Designer.cs">
+      <DependentUpon>Cambiar_precio_venta_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Comercial2_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Comercial2_form.Designer.cs">
+      <DependentUpon>Comercial2_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Comercial_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Comercial_form.Designer.cs">
+      <DependentUpon>Comercial_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\correos_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\correos_form.Designer.cs">
+      <DependentUpon>correos_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\CorteCompas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\CorteCompas.Designer.cs">
+      <DependentUpon>CorteCompas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\CodigoBarras.cs" />
+    <Compile Include="DAO\DAOClientes.cs" />
+    <Compile Include="DAO\DAOCodigoGenerado.cs" />
+    <Compile Include="DAO\DAOCompras.cs" />
+    <Compile Include="DAO\DAOCortes.cs" />
+    <Compile Include="DAO\DAOCredito.cs" />
+    <Compile Include="DAO\DAODetalle.cs" />
+    <Compile Include="DAO\DAOOfertas.cs" />
+    <Compile Include="DAO\DAOProductos.cs" />
+    <Compile Include="DAO\DAOProveedores.cs" />
+    <Compile Include="DAO\DAOTicket.cs" />
+    <Compile Include="DAO\DAOUsuarios.cs" />
+    <Compile Include="DAO\DAOVentas.cs" />
+    <Compile Include="DTO\Clientes.cs" />
+    <Compile Include="DTO\Codigos_generados.cs" />
+    <Compile Include="DTO\Compras.cs" />
+    <Compile Include="DTO\CorteVentas.cs" />
+    <Compile Include="DTO\Credito.cs" />
+    <Compile Include="DTO\Detalle.cs" />
+    <Compile Include="DTO\DTOOfertas.cs" />
+    <Compile Include="DTO\Dudas.cs" />
+    <Compile Include="DTO\PantallaCredito.cs" />
+    <Compile Include="DTO\PantallaVenta.cs" />
+    <Compile Include="DTO\Productos.cs" />
+    <Compile Include="DTO\Proveedores.cs" />
+    <Compile Include="DTO\ProveedoresDeudas.cs" />
+    <Compile Include="DTO\Tickets.cs" />
+    <Compile Include="DTO\Usuarios.cs" />
+    <Compile Include="DTO\Ventas.cs" />
+    <Compile Include="Form\Agregar_Deuda_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Agregar_Deuda_Cliente.designer.cs">
+      <DependentUpon>Agregar_Deuda_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Agregar_Deuda_Proveedor_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Agregar_Deuda_Proveedor_form.designer.cs">
+      <DependentUpon>Agregar_Deuda_Proveedor_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Buscador_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Buscador_form.designer.cs">
+      <DependentUpon>Buscador_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Buscador_form_nombre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Buscador_form_nombre.designer.cs">
+      <DependentUpon>Buscador_form_nombre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Clientes_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Clientes_Form.designer.cs">
+      <DependentUpon>Clientes_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Compras_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Compras_form.designer.cs">
+      <DependentUpon>Compras_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Configuracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Configuracion.designer.cs">
+      <DependentUpon>Configuracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Contenedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Contenedor.designer.cs">
+      <DependentUpon>Contenedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Corte_Dia_especifico_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Corte_Dia_especifico_form.Designer.cs">
+      <DependentUpon>Corte_Dia_especifico_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Corte_por_rango_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Corte_por_rango_form.designer.cs">
+      <DependentUpon>Corte_por_rango_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Corto_por_dia_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Corto_por_dia_form.designer.cs">
+      <DependentUpon>Corto_por_dia_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Credito_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Credito_form.designer.cs">
+      <DependentUpon>Credito_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Detalle_credito_cliente_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Detalle_credito_cliente_form.Designer.cs">
+      <DependentUpon>Detalle_credito_cliente_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\devoluciones_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\devoluciones_form.designer.cs">
+      <DependentUpon>devoluciones_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\devolucion_por_ticket_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\devolucion_por_ticket_form.Designer.cs">
+      <DependentUpon>devolucion_por_ticket_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Generar_codigos_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Generar_codigos_form.designer.cs">
+      <DependentUpon>Generar_codigos_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Hacer_Pago_Proveedor_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Hacer_Pago_Proveedor_form.designer.cs">
+      <DependentUpon>Hacer_Pago_Proveedor_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Importar_Exportar_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Importar_Exportar_form.designer.cs">
+      <DependentUpon>Importar_Exportar_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Inventario_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Inventario_Form.designer.cs">
+      <DependentUpon>Inventario_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\login.designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\modificar_producto_venta_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\modificar_producto_venta_form.Designer.cs">
+      <DependentUpon>modificar_producto_venta_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Mostrar_codigo_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Mostrar_codigo_form.designer.cs">
+      <DependentUpon>Mostrar_codigo_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\NuevoProducto_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\NuevoProducto_Form.designer.cs">
+      <DependentUpon>NuevoProducto_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Ofertas_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Ofertas_form.designer.cs">
+      <DependentUpon>Ofertas_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Paquetes_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Paquetes_form.Designer.cs">
+      <DependentUpon>Paquetes_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Presentacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Presentacion.designer.cs">
+      <DependentUpon>Presentacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Principalito_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Principalito_form.designer.cs">
+      <DependentUpon>Principalito_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Proveedores_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Proveedores_Form.designer.cs">
+      <DependentUpon>Proveedores_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Proveedor_Credito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Proveedor_Credito.designer.cs">
+      <DependentUpon>Proveedor_Credito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\resumen_compras_dia_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\resumen_compras_dia_form.Designer.cs">
+      <DependentUpon>resumen_compras_dia_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\resumen_compras_id_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\resumen_compras_id_form.Designer.cs">
+      <DependentUpon>resumen_compras_id_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Usuarios_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Usuarios_Form.designer.cs">
+      <DependentUpon>Usuarios_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Ventas_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Ventas_Form.designer.cs">
+      <DependentUpon>Ventas_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Nuevo_proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Nuevo_proveedor.Designer.cs">
+      <DependentUpon>Nuevo_proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form\Agregar_Deuda_Cliente.resx">
+      <DependentUpon>Agregar_Deuda_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Agregar_Deuda_Proveedor_form.resx">
+      <DependentUpon>Agregar_Deuda_Proveedor_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\autorizacion_form.resx">
+      <DependentUpon>autorizacion_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Buscador_form.resx">
+      <DependentUpon>Buscador_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Buscador_form_nombre.resx">
+      <DependentUpon>Buscador_form_nombre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Cambiar_precio_venta_form.resx">
+      <DependentUpon>Cambiar_precio_venta_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Clientes_Form.resx">
+      <DependentUpon>Clientes_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Comercial2_form.resx">
+      <DependentUpon>Comercial2_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Comercial_form.resx">
+      <DependentUpon>Comercial_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Compras_form.resx">
+      <DependentUpon>Compras_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Configuracion.resx">
+      <DependentUpon>Configuracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Contenedor.resx">
+      <DependentUpon>Contenedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\correos_form.resx">
+      <DependentUpon>correos_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\CorteCompas.resx">
+      <DependentUpon>CorteCompas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Corte_Dia_especifico_form.resx">
+      <DependentUpon>Corte_Dia_especifico_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Corte_por_rango_form.resx">
+      <DependentUpon>Corte_por_rango_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Corto_por_dia_form.resx">
+      <DependentUpon>Corto_por_dia_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Credito_form.resx">
+      <DependentUpon>Credito_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Detalle_credito_cliente_form.resx">
+      <DependentUpon>Detalle_credito_cliente_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\devoluciones_form.resx">
+      <DependentUpon>devoluciones_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\devolucion_por_ticket_form.resx">
+      <DependentUpon>devolucion_por_ticket_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Generar_codigos_form.resx">
+      <DependentUpon>Generar_codigos_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Hacer_Pago_Proveedor_form.resx">
+      <DependentUpon>Hacer_Pago_Proveedor_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Importar_Exportar_form.resx">
+      <DependentUpon>Importar_Exportar_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Inventario_Form.resx">
+      <DependentUpon>Inventario_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\modificar_producto_venta_form.resx">
+      <DependentUpon>modificar_producto_venta_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Mostrar_codigo_form.resx">
+      <DependentUpon>Mostrar_codigo_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\NuevoProducto_Form.resx">
+      <DependentUpon>NuevoProducto_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Nuevo_proveedor.resx">
+      <DependentUpon>Nuevo_proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Ofertas_form.resx">
+      <DependentUpon>Ofertas_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Paquetes_form.resx">
+      <DependentUpon>Paquetes_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Presentacion.resx">
+      <DependentUpon>Presentacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Principalito_form.resx">
+      <DependentUpon>Principalito_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Proveedores_Form.resx">
+      <DependentUpon>Proveedores_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Proveedor_Credito.resx">
+      <DependentUpon>Proveedor_Credito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\resumen_compras_dia_form.resx">
+      <DependentUpon>resumen_compras_dia_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\resumen_compras_id_form.resx">
+      <DependentUpon>resumen_compras_id_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Usuarios_Form.resx">
+      <DependentUpon>Usuarios_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Ventas_Form.resx">
+      <DependentUpon>Ventas_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="DB\DB_localDataSet.xsc">
+      <DependentUpon>DB_localDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DB\DB_localDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_localDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB\DB_localDataSet.xss">
+      <DependentUpon>DB_localDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="PuntoDeVenta_ClaveTemporal.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DB\DB_local.sdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="LogoCceo.ico" />
+    <Content Include="Resources\logo.png" />
+    <Content Include="Resources\LogoCceo.ico" />
+    <Content Include="Resources\Paquetes.png" />
+    <None Include="Resources\Paquetes1.png" />
+    <Content Include="Resources\punto de venta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.4.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 4.0 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

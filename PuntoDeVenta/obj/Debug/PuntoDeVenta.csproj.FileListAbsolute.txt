@@ -1,0 +1,520 @@
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.Cache
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csprojResolveAssemblyReference.cache
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form_nombre.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Clientes_Form.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Configuracion.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_rango_form.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_dia_form.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Credito_form.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Inventario_Form.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.login.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Presentacion.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Principalito_form.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedores_Form.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Usuarios_Form.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ventas_Form.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.NuevoProducto_Form.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ofertas_form.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Provedor.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Hacer_Pago_Proveedor_form.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedor_Credito_form_.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Contenedor.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Compras_form.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Generar_codigos_form.resources
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.dll
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.pdfa.dll
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.xtra.dll
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\LibPrintTicket.dll
+c:\users\cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\OrnelasInput.dll
+C:\Users\Cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\DB\DB_local.sdf
+C:\Users\Cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Cliente.resources
+C:\Users\Cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\ExcelLibrary.dll
+C:\Users\Cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.manifest
+C:\Users\Cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.application
+C:\Users\Cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe.manifest
+C:\Users\Cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.application
+C:\Users\Cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Nuevo_proveedor.resources
+C:\Users\Cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.CorteCompas.resources
+C:\Users\Cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Importar_Exportar_form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\DB\DB_local.sdf
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.manifest
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.application
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\ExcelLibrary.dll
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.dll
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.pdfa.dll
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.xtra.dll
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\LibPrintTicket.dll
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\bin\Debug\OrnelasInput.dll
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Cliente.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Provedor.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form_nombre.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Clientes_Form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Compras_form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Configuracion.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Contenedor.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.CorteCompas.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_rango_form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_dia_form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Credito_form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Generar_codigos_form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Hacer_Pago_Proveedor_form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Importar_Exportar_form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Inventario_Form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.login.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.NuevoProducto_Form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Nuevo_proveedor.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ofertas_form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Presentacion.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Principalito_form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedores_Form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedores_Subir_Excel.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedor_Credito_form_.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Usuarios_Form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ventas_Form.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.Cache
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe.manifest
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.application
+C:\Users\xavie_000\Desktop\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csprojResolveAssemblyReference.cache
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\bin\Debug\DB\DB_local.sdf
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.manifest
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.application
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\bin\Debug\ExcelLibrary.dll
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.dll
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.pdfa.dll
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.xtra.dll
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\bin\Debug\LibPrintTicket.dll
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\bin\Debug\OrnelasInput.dll
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csprojResolveAssemblyReference.cache
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Cliente.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Provedor.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form_nombre.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Clientes_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Compras_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Configuracion.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Contenedor.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.CorteCompas.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_rango_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_dia_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Credito_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Generar_codigos_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Hacer_Pago_Proveedor_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Importar_Exportar_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Inventario_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.login.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.NuevoProducto_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Nuevo_proveedor.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ofertas_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Presentacion.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Principalito_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedores_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedor_Credito_form_.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Usuarios_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ventas_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.Cache
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe.manifest
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.application
+C:\Users\xavie_000\SkyDrive\Documentos\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.devoluciones_form.resources
+C:\Users\Cesar\documents\visual studio 2012\Projects\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.devoluciones_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\bin\Debug\DB\DB_local.sdf
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.manifest
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.application
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\bin\Debug\ExcelLibrary.dll
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.dll
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.pdfa.dll
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.xtra.dll
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\bin\Debug\LibPrintTicket.dll
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\bin\Debug\OrnelasInput.dll
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csprojResolveAssemblyReference.cache
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Cliente.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Provedor.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form_nombre.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Clientes_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Compras_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Configuracion.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Contenedor.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.CorteCompas.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_rango_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_dia_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Credito_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.devoluciones_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Generar_codigos_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Hacer_Pago_Proveedor_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Importar_Exportar_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Inventario_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.login.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.NuevoProducto_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Nuevo_proveedor.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ofertas_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Presentacion.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Principalito_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedores_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedor_Credito_form_.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Usuarios_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ventas_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.Cache
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe.manifest
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.application
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\bin\Debug\DB\DB_local.sdf
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.manifest
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.application
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\bin\Debug\ExcelLibrary.dll
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.dll
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.pdfa.dll
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.xtra.dll
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\bin\Debug\LibPrintTicket.dll
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\bin\Debug\OrnelasInput.dll
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csprojResolveAssemblyReference.cache
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Cliente.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Provedor.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form_nombre.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Clientes_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Compras_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Configuracion.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Contenedor.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.CorteCompas.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_rango_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_dia_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Credito_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.devoluciones_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Generar_codigos_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Hacer_Pago_Proveedor_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Importar_Exportar_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Inventario_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.login.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.NuevoProducto_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Nuevo_proveedor.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ofertas_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Presentacion.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Principalito_form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedores_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedor_Credito_form_.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Usuarios_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ventas_Form.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.Cache
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe.manifest
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.application
+C:\Users\xavie_000\SkyDrive\Documentos\Sistema bueno\Con Actualizacion\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_Dia_especifico_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\bin\Debug\DB\DB_local.sdf
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.manifest
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.application
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\bin\Debug\ExcelLibrary.dll
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.dll
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.xtra.dll
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\bin\Debug\LibPrintTicket.dll
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\bin\Debug\OrnelasInput.dll
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csprojResolveAssemblyReference.cache
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Cliente.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Provedor.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form_nombre.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Clientes_Form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Comercial_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Compras_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Configuracion.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Contenedor.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.CorteCompas.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_Dia_especifico_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_rango_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_dia_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Credito_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.devoluciones_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Generar_codigos_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Hacer_Pago_Proveedor_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Importar_Exportar_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Inventario_Form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.login.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.NuevoProducto_Form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Nuevo_proveedor.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ofertas_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Paquetes_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Presentacion.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Principalito_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedores_Form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedor_Credito_form_.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Usuarios_Form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ventas_Form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.Cache
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe.manifest
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.application
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Comercial2_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.devolucion_por_ticket_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.correos_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Detalle_credito_cliente.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Cambiar_precio_venta_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.resumen_compras_dia_form.resources
+C:\Users\Francisco\OneDrive\Documentos\Sistema bueno\Con Actualizacion\1\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.resumen_compras_id_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Cliente.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Provedor.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form_nombre.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Cambiar_precio_venta_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Clientes_Form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Comercial2_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Comercial_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Compras_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Configuracion.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Contenedor.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.correos_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.CorteCompas.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_Dia_especifico_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_rango_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_dia_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Credito_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Detalle_credito_cliente.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.devoluciones_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.devolucion_por_ticket_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Generar_codigos_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Hacer_Pago_Proveedor_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Importar_Exportar_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Inventario_Form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.login.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.NuevoProducto_Form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Nuevo_proveedor.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ofertas_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Paquetes_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Presentacion.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Principalito_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedores_Form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedor_Credito_form_.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.resumen_compras_dia_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.resumen_compras_id_form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Usuarios_Form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ventas_Form.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.Cache
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\DB\DB_local.sdf
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.manifest
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.application
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\ExcelLibrary.dll
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.dll
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.xtra.dll
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\LibPrintTicket.dll
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\OrnelasInput.dll
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe.manifest
+C:\Users\Hugo\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.application
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\DB\DB_local.sdf
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.manifest
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.application
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\ExcelLibrary.dll
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.dll
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.xtra.dll
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\LibPrintTicket.dll
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\bin\Debug\OrnelasInput.dll
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csprojResolveAssemblyReference.cache
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Cliente.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Provedor.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form_nombre.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Cambiar_precio_venta_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Clientes_Form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Comercial2_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Comercial_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Compras_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Configuracion.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Contenedor.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.correos_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.CorteCompas.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_Dia_especifico_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_rango_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_dia_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Credito_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Detalle_credito_cliente.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.devoluciones_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.devolucion_por_ticket_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Generar_codigos_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Hacer_Pago_Proveedor_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Importar_Exportar_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Inventario_Form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.login.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.NuevoProducto_Form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Nuevo_proveedor.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ofertas_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Paquetes_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Presentacion.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Principalito_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedores_Form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedor_Credito_form_.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.resumen_compras_dia_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.resumen_compras_id_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Usuarios_Form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ventas_Form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.Cache
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe.manifest
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.application
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.autorizacion_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Mostrar_codigo_form.resources
+C:\Users\Francisco\Dropbox\cCeo\Proyectos\Punto de venta\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.modificar_producto_venta_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\bin\Debug\DB\DB_local.sdf
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.manifest
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.application
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\bin\Debug\ExcelLibrary.dll
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.dll
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.xtra.dll
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\bin\Debug\LibPrintTicket.dll
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\bin\Debug\OrnelasInput.dll
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csprojResolveAssemblyReference.cache
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Cliente.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Provedor.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.autorizacion_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form_nombre.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Cambiar_precio_venta_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Clientes_Form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Comercial2_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Comercial_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Compras_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Configuracion.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Contenedor.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.correos_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.CorteCompas.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_Dia_especifico_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_rango_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_dia_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Credito_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Detalle_credito_cliente.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.devoluciones_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.devolucion_por_ticket_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Generar_codigos_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Hacer_Pago_Proveedor_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Importar_Exportar_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Inventario_Form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.login.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.modificar_producto_venta_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Mostrar_codigo_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.NuevoProducto_Form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Nuevo_proveedor.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ofertas_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Paquetes_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Presentacion.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Principalito_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedores_Form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedor_Credito_form_.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.resumen_compras_dia_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.resumen_compras_id_form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Usuarios_Form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ventas_Form.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.Cache
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe.manifest
+C:\Users\Francisco\Google Drive\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.application
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.config
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.pdb
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\bin\Debug\DB\DB_local.sdf
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe.manifest
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.application
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.exe
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\bin\Debug\PuntoDeVenta.pdb
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\bin\Debug\ExcelLibrary.dll
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.dll
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\bin\Debug\itextsharp.xtra.dll
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\bin\Debug\LibPrintTicket.dll
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\bin\Debug\OrnelasInput.dll
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csprojResolveAssemblyReference.cache
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Cliente.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Agregar_Deuda_Provedor.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.autorizacion_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Buscador_form_nombre.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Cambiar_precio_venta_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Clientes_Form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Comercial2_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Comercial_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Compras_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Configuracion.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Contenedor.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.correos_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.CorteCompas.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_Dia_especifico_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_rango_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Corte_por_dia_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Credito_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Detalle_credito_cliente.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.devoluciones_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.devolucion_por_ticket_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Generar_codigos_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Hacer_Pago_Proveedor_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Importar_Exportar_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Inventario_Form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.login.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.modificar_producto_venta_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Mostrar_codigo_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.NuevoProducto_Form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Nuevo_proveedor.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ofertas_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Paquetes_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Presentacion.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Principalito_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedores_Form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Proveedor_Credito_form_.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.resumen_compras_dia_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.resumen_compras_id_form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Usuarios_Form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\punto_venta.Ventas_Form.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.Properties.Resources.resources
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.csproj.GenerateResource.Cache
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.exe.manifest
+C:\Users\Francisco\OneDrive\Seguridad\PuntoDeVenta\PuntoDeVenta\obj\Debug\PuntoDeVenta.application
